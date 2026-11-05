@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.venv
+venv/
+
+# Databricks / temp files
+*.dbc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# Large data files (important for your project!)
+*.csv
+*.parquet
+*.xlsx
+
+# Model or cache (if any)
+*.pkl
